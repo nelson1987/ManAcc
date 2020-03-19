@@ -30,7 +30,6 @@
 *.exe
 *.out
 *.app
-/.vs/ManAcc/v15/.suo
-/.vs/ManAcc/v15/Server/sqlite3
+/.vs
 /ManAcc.Tests/obj
-/.vs/ManAcc/DesignTimeBuild/.dtbcache
+/ManAcc.Tests/bin
