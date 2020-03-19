@@ -32,3 +32,5 @@
 *.app
 /.vs/ManAcc/v15/.suo
 /.vs/ManAcc/v15/Server/sqlite3
+/ManAcc.Tests/obj
+/.vs/ManAcc/DesignTimeBuild/.dtbcache
